@@ -1,4 +1,4 @@
-# Tutorial 
+# Tutorial 7
 
 1. Write statements for each of the following
     
