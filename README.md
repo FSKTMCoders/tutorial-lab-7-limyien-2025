@@ -2,8 +2,8 @@
 
 # wix1002-tutorial-lab-7
 
-### Name: <Lim Yi-En>
-### Matric Number: <23119574>
+### Name: Lim Yi-En
+### Matric Number: 23119574
 
 1. Join the assignment. It will create a template repository in your GitHub repo.
 2. Clone the generated repo to your laptop and start working on it.
