@@ -11,7 +11,7 @@ import java.io.FileOutputStream;
 public class Q2 {
     public static void main(String[] args) {
         try {
-            URL u = new URL("http://www.fsktm.um.edu.my");
+            URL u = new URL("http://fsktm.um.edu.my");
             URLConnection cnn = u.openConnection();
             InputStream stream = cnn.getInputStream();
             Scanner in = new Scanner(stream);
