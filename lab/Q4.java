@@ -11,7 +11,7 @@ public class Q4 {
         int lines = 0;
 
         try {
-            BufferedReader in = new BufferedReader(new FileReader("input.txt"));
+            BufferedReader in = new BufferedReader(new FileReader("lab/lab07/lecturer.txt"));
             String line;
 
             while ((line = in.readLine()) != null) {

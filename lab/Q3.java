@@ -9,7 +9,7 @@ import java.io.IOException;
 public class Q3 {
     public static void main(String[] args){
         try {
-            BufferedReader in = new BufferedReader(new FileReader("src/lab/lab07/order.txt"));
+            BufferedReader in = new BufferedReader(new FileReader("lab/lab07/order.txt"));
             PrintWriter out = new PrintWriter(new FileOutputStream("reverse.txt"));
 
             String line;
